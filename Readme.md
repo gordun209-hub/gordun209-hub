@@ -19,6 +19,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gordun209-hub&show_icons=true&locale=en&layout=compact" alt="gordun209-hub" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gordun209-hub&locale=en&layout=compact" alt="gordun209-hub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gordun209-hub&show_icons=true&locale=en" alt="gordun209-hub" /></p>
