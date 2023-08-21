@@ -5,5 +5,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gordun209-hub" alt="gordun209-hub" /></a> </p>
 
--  I’m currently learning **Scheme with the SICP book and discrete math.**
+-  I’m currently learning **Real Analysis and Linear algebra**
 
